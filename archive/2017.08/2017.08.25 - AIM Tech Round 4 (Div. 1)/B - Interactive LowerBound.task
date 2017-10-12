@@ -1,0 +1,36 @@
+26 B - Interactive LowerBound
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+33 5 3 80
+97 -1
+58 5
+16 2
+81 1
+79 4
+
+24 ? 1
+? 2
+? 3
+? 4
+? 5
+! 81
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.08.25
+25 AIM Tech Round 4 (Div. 1)
+1
+20 template.InputReader
+19 java.io.PrintWriter
+0
+0
