@@ -1,0 +1,92 @@
+16 ImageCompression
+10 isPossible
+16 java.lang.String
+2
+18 java.lang.String[]
+5 image
+3 int
+1 k
+6
+0
+2
+String[] 6
+4 0011
+4 0011
+4 1100
+4 1100
+4 0000
+4 0000
+int 2
+String
+8 Possible
+1
+1
+2
+String[] 6
+4 0011
+4 0011
+4 1100
+4 1100
+4 0010
+4 0000
+int 2
+String
+10 Impossible
+1
+2
+2
+String[] 3
+9 111000111
+9 111000111
+9 111000111
+int 3
+String
+8 Possible
+1
+3
+2
+String[] 6
+6 001100
+6 001100
+6 110011
+6 110011
+6 001100
+6 001100
+int 6
+String
+10 Impossible
+1
+4
+2
+String[] 6
+6 001100
+6 001100
+6 110011
+6 110011
+6 001100
+6 001100
+int 2
+String
+8 Possible
+1
+5
+2
+String[] 8
+8 11111111
+8 11111111
+8 11111111
+8 11111111
+8 11111111
+8 11111111
+8 11111111
+8 11111111
+int 4
+String
+8 Possible
+1
+10 2017.10.14
+17 TopCoder SRM #715
+0
+21 main.ImageCompression
+0
+4 256M
