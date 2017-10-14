@@ -1,2 +1,2 @@
-25 src/main/InPrePost.tctask
+25 src/main/MafiaGame.tctask
 0

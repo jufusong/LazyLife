@@ -15,11 +15,12 @@ public class Util {
         return ret;
     }
 
-    public static int[] shrinkX(int[] a) {
+    public static int[] shrink(int[] a) {
         int n = a.length;
         long[] b = new long[n];
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < n; i++) {
             b[i] = (long) a[i] << 32 | i;
+        }
         Arrays.sort(b);
         int[] ret = new int[n];
         int p = 0;
