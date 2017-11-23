@@ -1,6 +1,6 @@
 package main;
 
-import template.InputReader;
+import palayutm.InputReader;
 import java.io.PrintWriter;
 
 public class TaskC {

@@ -1,7 +1,7 @@
 package main;
 
-import template.InputReader;
-import template.Util;
+import palayutm.InputReader;
+import palayutm.Util;
 
 import java.io.PrintWriter;
 

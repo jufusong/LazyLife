@@ -1,2 +1,2 @@
-25 src/main/MafiaGame.tctask
+23 src/main/A - Pride.task
 0

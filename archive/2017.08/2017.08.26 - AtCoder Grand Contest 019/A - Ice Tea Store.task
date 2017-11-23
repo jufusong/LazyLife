@@ -43,7 +43,7 @@
 10 2017.08.26
 25 AtCoder Grand Contest 019
 1
-20 template.InputReader
+20 palayutm.util.io.InputReader
 19 java.io.PrintWriter
 0
 0

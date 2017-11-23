@@ -1,4 +1,4 @@
-package template;
+package palayutm.util.io;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -29,6 +29,12 @@ public class InputReader {
     public int nextInt() {
         return Integer.parseInt(next());
     }
-    public double nextDouble() { return Double.parseDouble(next()); }
-    public long nextLong() { return Long.parseLong(next()); }
+
+    public double nextDouble() {
+        return Double.parseDouble(next());
+    }
+
+    public long nextLong() {
+        return Long.parseLong(next());
+    }
 }

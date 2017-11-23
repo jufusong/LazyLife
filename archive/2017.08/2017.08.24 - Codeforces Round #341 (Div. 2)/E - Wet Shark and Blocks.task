@@ -36,7 +36,7 @@
 10 2017.08.24
 30 Codeforces Round #341 (Div. 2)
 1
-20 template.InputReader
+20 palayutm.util.io.InputReader
 19 java.io.PrintWriter
 0
 0
