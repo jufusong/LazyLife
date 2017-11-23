@@ -1,7 +1,7 @@
 package palayutm.numbers;
 
 public class Matrix {
-    public static long mod = (long)1e9 + 7;
+    public static long mod = (long) 1e9 + 7;
     public long[][] a;
     public int rowCount;
     public int columnCount;

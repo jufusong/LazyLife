@@ -3,17 +3,6 @@ package palayutm;
 import java.util.Arrays;
 
 public class Util {
-    public static long powMod(long x, long y, long mod) {
-        long ret = 1;
-        while (y > 0) {
-            if (y % 2 > 0) {
-                ret = ret * x % mod;
-            }
-            x = x * x % mod;
-            y >>= 1;
-        }
-        return ret;
-    }
 
     public static int[] shrink(int[] a) {
         int n = a.length;

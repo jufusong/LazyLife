@@ -1,0 +1,38 @@
+19 A - Chess For Three
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+8 3
+1
+1
+2
+
+4 YES
+
+1
+1
+6 2
+1
+2
+
+3 NO
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.11.23
+50 Educational Codeforces Round 33 (Rated for Div. 2)
+1
+28 palayutm.util.io.InputReader
+19 java.io.PrintWriter
+0
+0

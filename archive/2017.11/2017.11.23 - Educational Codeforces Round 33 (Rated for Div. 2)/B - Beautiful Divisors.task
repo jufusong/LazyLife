@@ -1,0 +1,33 @@
+22 B - Beautiful Divisors
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+2 3
+
+2 1
+
+1
+1
+4 992
+
+4 496
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.11.23
+50 Educational Codeforces Round 33 (Rated for Div. 2)
+1
+28 palayutm.util.io.InputReader
+19 java.io.PrintWriter
+0
+0
